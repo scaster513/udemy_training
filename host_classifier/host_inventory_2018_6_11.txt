@@ -1,0 +1,10 @@
+usoh4dwsql5.domain.tld    
+usoh4pwsql8.domain.tld    
+usoh4swsql2.domain.tld    
+usoh4pwdc4.domain.tld     
+usoh4pwexch1.domain.tld   
+usoh4sldbs11.domain.tld   
+usoh4pldbs11.domain.tld   
+usoh4pwdbs10.domain.tld   
+usoh4pwsql15.domain.tld   
+usoh4pwsql16.domain.tld   
